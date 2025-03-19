@@ -5,7 +5,7 @@ function AddToDisplay(text){
 }
 
 function ClearDisplay(){
-    display.value = "";
+    display.value = ""   ;
 }
 
 function Evaluate() {
