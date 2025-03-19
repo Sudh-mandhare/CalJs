@@ -1,7 +1,7 @@
 display = document.getElementById("display");
 
 function AddToDisplay(text){
-    display.value += text;
+    display.value += text   ;
 }
 
 function ClearDisplay(){
