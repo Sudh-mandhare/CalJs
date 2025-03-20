@@ -1,4 +1,4 @@
-# Use an official lightweight web server (nginx) as the base image
+
 FROM nginx:latest
 
 COPY index.html /usr/share/nginx/html/index.html
